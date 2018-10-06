@@ -1,7 +1,7 @@
 ans=int(input("Enter number to be searched "));
 print("Enter the array to be searched \n")
 
-
+print("Enter numbers in array to be sorted")
 ar = [int(i) for i in input().split()]
 flag=0;
 for i in range(len(ar)):
