@@ -25,7 +25,7 @@ A step by step series of example that tell you how to get this repo in your comp
 
 ### license
  
- This project is licensed under MIT license- see the[LICENSE.md](https://github.com/ds-lab)
+ This project is licensed under MIT license- see the [LICENSE.md](https://github.com/Sahaj21/ds-lab)
  
 ### Acknowledgement
 
