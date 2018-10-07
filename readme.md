@@ -1,4 +1,4 @@
-# draw-it-up
+# DS LAB
 _All the programs from Data Structures Lab_
 
 
